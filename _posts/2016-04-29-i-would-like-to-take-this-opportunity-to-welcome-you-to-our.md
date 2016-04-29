@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "I would like to take this opportunity to welcome you to our community. Perhaps you have been invited, you stumbled across our site or you've heard about us from a friend and decided to check us out. Either way, I don't believe that life is just random so therefore I believe that you are here by appointment. Today, could be the start of a whole new adventure for you but the choice is always yours. "
-datePublished: '2016-04-29T08:24:36.220Z'
-dateModified: '2016-04-29T08:24:02.590Z'
+datePublished: '2016-04-29T08:26:21.060Z'
+dateModified: '2016-04-29T08:24:43.704Z'
+title: ''
+author: []
+sourcePath: _posts/2016-04-29-i-would-like-to-take-this-opportunity-to-welcome-you-to-our.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
 starred: false
-sourcePath: _posts/2016-04-29-i-would-like-to-take-this-opportunity-to-welcome-you-to-our.md
-published: true
 url: i-would-like-to-take-this-opportunity-to-welcome-you-to-our/index.html
 _type: Article
 
