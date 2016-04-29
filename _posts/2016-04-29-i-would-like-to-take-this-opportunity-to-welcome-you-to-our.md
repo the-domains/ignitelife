@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "I would like to take this opportunity to welcome you to our community. Perhaps you have been invited, you stumbled across our site or you've heard about us from a friend and decided to check us out. Either way, I don't believe that life is just random so therefore I believe that you are here by appointment. Today, could be the start of a whole new adventure for you but the choice is always yours. "
-datePublished: '2016-04-29T08:26:21.060Z'
-dateModified: '2016-04-29T08:24:43.704Z'
+datePublished: '2016-04-29T08:34:35.632Z'
+dateModified: '2016-04-29T08:34:24.657Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-29-i-would-like-to-take-this-opportunity-to-welcome-you-to-our.md
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: i-would-like-to-take-this-opportunity-to-welcome-you-to-our/index.html
 _type: Article
 
@@ -38,5 +38,6 @@ Ignite Life exists so that you can make the choice to take the journey in discov
 It's time to come alive....and create the future.
 
 Read more about who we are [HERE][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/697f072a-7325-4c1e-a606-86fad90f1853.jpg)
 
 [0]: http://ignitelifecommunity.ning.com/who-are-we
